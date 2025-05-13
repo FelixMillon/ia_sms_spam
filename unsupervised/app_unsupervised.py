@@ -2,20 +2,22 @@ import pandas as pd
 import numpy as np
 import re
 import nltk
+import hdbscan
+import matplotlib.pyplot as plt
 from sklearn.feature_extraction.text import TfidfVectorizer
 from sklearn.decomposition import TruncatedSVD
-from sklearn.cluster import KMeans
-from sklearn.metrics import confusion_matrix, silhouette_score, classification_report
+from sklearn.metrics import silhouette_score
 from nltk.corpus import stopwords
-from nltk.stem import PorterStemmer
-from collections import defaultdict
+from nltk.stem import WordNetLemmatizer
 from collect_data import get_real_dataset
 
 nltk.download("stopwords")
+nltk.download("wordnet")
+nltk.download("omw-1.4")
 
-# Charger un sous-ensemble équilibré
+# Charger un sous-ensemble équilibré de données labellisées
 texts, labels = get_real_dataset(n_ham=747, n_spam=747)
-df = pd.DataFrame({"label": labels, "text": texts})
+df = pd.DataFrame({"text": texts, "label": labels})
 
 # Nettoyage et preprocessing
 def preprocess_text(text):
@@ -24,50 +26,61 @@ def preprocess_text(text):
     text = re.sub(r"[^a-z\s]", "", text)  # Supprimer la ponctuation
     tokens = text.split()
     stop_words = set(stopwords.words("english"))
-    stemmer = PorterStemmer()
-    tokens = [stemmer.stem(word) for word in tokens if word not in stop_words]
+    lemmatizer = WordNetLemmatizer()
+    tokens = [lemmatizer.lemmatize(word) for word in tokens if word not in stop_words]
     return " ".join(tokens)
 
 df["clean_text"] = df["text"].apply(preprocess_text)
 
 # TF-IDF vectorization
-vectorizer = TfidfVectorizer(max_df=0.8, min_df=5, ngram_range=(1, 2))
+vectorizer = TfidfVectorizer(max_df=0.8, min_df=5, ngram_range=(1, 2), stop_words="english")
 X = vectorizer.fit_transform(df["clean_text"])
 
-# Réduction de dimension avec SVD
-svd = TruncatedSVD(n_components=100, random_state=42)
+# Réduction de dimension
+svd = TruncatedSVD(n_components=150, random_state=42)
 X_reduced = svd.fit_transform(X)
 
-# Clustering KMeans
-kmeans = KMeans(n_clusters=2, random_state=42, n_init=50, max_iter=500)
-kmeans.fit(X_reduced)
-y_kmeans = kmeans.labels_
+# Clustering avec HDBSCAN
+clusterer = hdbscan.HDBSCAN(min_cluster_size=5, min_samples=1, metric='manhattan')
+y_hdb = clusterer.fit_predict(X_reduced)
 
-# Mappage clusters -> labels REELLEMENT PRÉSENTS (post-analyse, pas d'utilisation dans l'algo)
-cluster_map = defaultdict(lambda: "ham")
-cluster_centers_labels = [
-    (i, df[kmeans.labels_ == i]["label"].value_counts().idxmax())
-    for i in range(2)
-]
-for i, label in cluster_centers_labels:
-    cluster_map[i] = label
+# Marquer les clusters
+df["cluster"] = y_hdb
+mask = y_hdb != -1
 
-# Évaluation non supervisée (avec labels pour analyse post-clustering)
-y_pred = np.array([cluster_map[label] for label in y_kmeans])
-y_true = df["label"].values
+if np.sum(mask) == 0:
+    print("\n❌ Aucun cluster détecté par HDBSCAN (tous les points sont du bruit).")
+else:
+    silhouette = silhouette_score(X_reduced[mask], y_hdb[mask])
+    print("\nSilhouette Score:", silhouette)
 
-# Évaluation
-cm = confusion_matrix(y_true, y_pred, labels=["ham", "spam"])
-silhouette = silhouette_score(X_reduced, y_kmeans)
-report = classification_report(y_true, y_pred, target_names=["ham", "spam"])
+    # Analyse par cluster
+    unique_clusters = sorted(df["cluster"].unique())
+    for i in unique_clusters:
+        subset = df[df["cluster"] == i]
+        print(f"\n=== Cluster {i} ===")
+        samples = subset["text"].sample(min(10, len(subset)), random_state=42)
+        print("\n".join(samples.values))
 
-# Affichage
-print("Confusion Matrix:\n", cm)
-print("\nSilhouette Score:", silhouette)
-print("\nClassification Report:\n", report)
+        top_words = pd.Series(" ".join(subset["clean_text"]).split()).value_counts().head(10)
+        print(f"\nTop words in Cluster {i}:")
+        for word, freq in top_words.items():
+            print(f"{word}: {freq}")
 
-# Afficher quelques exemples par cluster
-for i in range(2):
-    print(f"\n=== Cluster {i} ===")
-    examples = df[kmeans.labels_ == i].text.sample(10, random_state=42)
-    print("\n".join(examples.values))
+    # Évaluation non supervisée (avec les labels, pour analyse seulement)
+    from sklearn.metrics import confusion_matrix, classification_report
+    from collections import defaultdict
+
+    cluster_map = defaultdict(lambda: "ham")
+    for i in unique_clusters:
+        true_labels = df[df["cluster"] == i]["label"]
+        if not true_labels.empty:
+            cluster_map[i] = true_labels.value_counts().idxmax()
+
+    y_pred = df["cluster"].map(cluster_map)
+    y_true = df["label"]
+
+    print("\nConfusion Matrix:")
+    print(confusion_matrix(y_true, y_pred, labels=["ham", "spam"]))
+    print("\nClassification Report:")
+    print(classification_report(y_true, y_pred, target_names=["ham", "spam"]))
