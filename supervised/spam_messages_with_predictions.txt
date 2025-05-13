@@ -1,0 +1,915 @@
+Message: Even my brother is not like to speak with me. They treat me like aids patent.
+Predicted: spam
+True Label: spam
+Prediction: Correct
+
+Message: As per your request 'Melle Melle (Oru Minnaminunginte Nurungu Vettam)' has been set as your callertune for all Callers. Press *9 to copy your friends Callertune
+Predicted: spam
+True Label: spam
+Prediction: Correct
+
+Message: Had your mobile 11 months or more? U R entitled to Update to the latest colour mobiles with camera for Free! Call The Mobile Update Co FREE on 08002986030
+Predicted: spam
+True Label: spam
+Prediction: Correct
+
+Message: SIX chances to win CASH! From 100 to 20,000 pounds txt> CSH11 and send to 87575. Cost 150p/day, 6days, 16+ TsandCs apply Reply HL 4 info
+Predicted: spam
+True Label: spam
+Prediction: Correct
+
+Message: IÛ÷m going to try for 2 months ha ha only joking
+Predicted: spam
+True Label: ham
+Prediction: Incorrect
+
+Message: I'm back &amp; we're packing the car now, I'll let you know if there's room
+Predicted: spam
+True Label: spam
+Prediction: Correct
+
+Message: K tell me anything about you.
+Predicted: spam
+True Label: ham
+Prediction: Incorrect
+
+Message: Anything lor... U decide...
+Predicted: spam
+True Label: spam
+Prediction: Correct
+
+Message: WHO ARE YOU SEEING?
+Predicted: spam
+True Label: spam
+Prediction: Correct
+
+Message: Great! I hope you like your man well endowed. I am  &lt;#&gt;  inches...
+Predicted: spam
+True Label: spam
+Prediction: Correct
+
+Message: Its a part of checking IQ
+Predicted: spam
+True Label: ham
+Prediction: Incorrect
+
+Message: Sorry my roommates took forever, it ok if I come by now?
+Predicted: spam
+True Label: spam
+Prediction: Correct
+
+Message: Wah lucky man... Then can save money... Hee...
+Predicted: spam
+True Label: ham
+Prediction: Incorrect
+
+Message: I call you later, don't have network. If urgnt, sms me.
+Predicted: spam
+True Label: spam
+Prediction: Correct
+
+Message: Ela kano.,il download, come wen ur free..
+Predicted: spam
+True Label: ham
+Prediction: Incorrect
+
+Message: Sorry to be a pain. Is it ok if we meet another night? I spent late afternoon in casualty and that means i haven't done any of y stuff42moro and that includes all my time sheets and that. Sorry. 
+Predicted: spam
+True Label: spam
+Prediction: Correct
+
+Message: i see. When we finish we have loads of loans to pay
+Predicted: spam
+True Label: ham
+Prediction: Incorrect
+
+Message: How would my ip address test that considering my computer isn't a minecraft server
+Predicted: spam
+True Label: spam
+Prediction: Correct
+
+Message: As I entered my cabin my PA said, '' Happy B'day Boss !!''. I felt special. She askd me 4 lunch. After lunch she invited me to her apartment. We went there.
+Predicted: spam
+True Label: spam
+Prediction: Correct
+
+Message: Good stuff, will do.
+Predicted: spam
+True Label: spam
+Prediction: Correct
+
+Message: Just so that you know,yetunde hasn't sent money yet. I just sent her a text not to bother sending. So its over, you dont have to involve yourself in anything. I shouldn't have imposed anything on you in the first place so for that, i apologise.
+Predicted: spam
+True Label: spam
+Prediction: Correct
+
+Message: Dear, will call Tmorrow.pls accomodate.
+Predicted: spam
+True Label: spam
+Prediction: Correct
+
+Message: Sunshine Quiz Wkly Q! Win a top Sony DVD player if u know which country the Algarve is in? Txt ansr to 82277. å£1.50 SP:Tyrone
+Predicted: spam
+True Label: spam
+Prediction: Correct
+
+Message: Aaooooright are you at work?
+Predicted: spam
+True Label: ham
+Prediction: Incorrect
+
+Message: Keep yourself safe for me because I need you and I miss you already and I envy everyone that see's you in real life
+Predicted: spam
+True Label: spam
+Prediction: Correct
+
+Message: New car and house for my parents.:)i have only new job in hand:)
+Predicted: spam
+True Label: ham
+Prediction: Incorrect
+
+Message: Great escape. I fancy the bridge but needs her lager. See you tomo 
+Predicted: spam
+True Label: ham
+Prediction: Incorrect
+
+Message: Sir, I need AXIS BANK account no and bank address.
+Predicted: spam
+True Label: spam
+Prediction: Correct
+
+Message: Turns out my friends are staying for the whole show and won't be back til ~ &lt;#&gt; , so feel free to go ahead and smoke that $ &lt;#&gt;  worth
+Predicted: spam
+True Label: spam
+Prediction: Correct
+
+Message: Text her. If she doesnt reply let me know so i can have her log in
+Predicted: spam
+True Label: spam
+Prediction: Correct
+
+Message: Hi! You just spoke to MANEESHA V. We'd like to know if you were satisfied with the experience. Reply Toll Free with Yes or No.
+Predicted: spam
+True Label: ham
+Prediction: Incorrect
+
+Message: Are you unique enough? Find out from 30th August. www.areyouunique.co.uk
+Predicted: spam
+True Label: ham
+Prediction: Incorrect
+
+Message: Hello darlin ive finished college now so txt me when u finish if u can love Kate xxx
+Predicted: spam
+True Label: ham
+Prediction: Incorrect
+
+Message: Home so we can always chat
+Predicted: spam
+True Label: ham
+Prediction: Incorrect
+
+Message: Tired. I haven't slept well the past few nights.
+Predicted: spam
+True Label: ham
+Prediction: Incorrect
+
+Message: Will u meet ur dream partner soon? Is ur career off 2 a flyng start? 2 find out free, txt HORO followed by ur star sign, e. g. HORO ARIES
+Predicted: spam
+True Label: spam
+Prediction: Correct
+
+Message: Hey company elama po mudyadhu.
+Predicted: spam
+True Label: ham
+Prediction: Incorrect
+
+Message: Yes:)here tv is always available in work place..
+Predicted: spam
+True Label: spam
+Prediction: Correct
+
+Message: New Theory: Argument wins d SITUATION, but loses the PERSON. So dont argue with ur friends just.. . . . kick them &amp; say, I'm always correct.!
+Predicted: spam
+True Label: ham
+Prediction: Incorrect
+
+Message: PLEASSSSSSSEEEEEE TEL ME V AVENT DONE SPORTSx
+Predicted: spam
+True Label: spam
+Prediction: Correct
+
+Message: Although i told u dat i'm into baig face watches now but i really like e watch u gave cos it's fr u. Thanx 4 everything dat u've done today, i'm touched...
+Predicted: spam
+True Label: spam
+Prediction: Correct
+
+Message: Mmm so yummy babe ... Nice jolt to the suzy
+Predicted: spam
+True Label: spam
+Prediction: Correct
+
+Message: We tried to contact you re your reply to our offer of a Video Handset? 750 anytime networks mins? UNLIMITED TEXT? Camcorder? Reply or call 08000930705 NOW
+Predicted: spam
+True Label: spam
+Prediction: Correct
+
+Message: Yup
+Predicted: spam
+True Label: spam
+Prediction: Correct
+
+Message: Not sure yet, still trying to get a hold of him
+Predicted: spam
+True Label: ham
+Prediction: Incorrect
+
+Message: HMV BONUS SPECIAL 500 pounds of genuine HMV vouchers to be won. Just answer 4 easy questions. Play Now! Send HMV to 86688 More info:www.100percent-real.com
+Predicted: spam
+True Label: ham
+Prediction: Incorrect
+
+Message: No objection. My bf not coming.
+Predicted: spam
+True Label: spam
+Prediction: Correct
+
+Message: Oh and by the way you do have more food in your fridge! Want to go out for a meal tonight? 
+Predicted: spam
+True Label: spam
+Prediction: Correct
+
+Message: Yup... From what i remb... I think should be can book... 
+Predicted: spam
+True Label: spam
+Prediction: Correct
+
+Message: Today is ACCEPT DAY..U Accept me as? Brother Sister Lover Dear1 Best1 Clos1 Lvblefrnd Jstfrnd Cutefrnd Lifpartnr Belovd Swtheart Bstfrnd No rply means enemy
+Predicted: spam
+True Label: spam
+Prediction: Correct
+
+Message: He says he'll give me a call when his friend's got the money but that he's definitely buying before the end of the week
+Predicted: spam
+True Label: spam
+Prediction: Correct
+
+Message: K.k:)advance happy pongal.
+Predicted: spam
+True Label: spam
+Prediction: Correct
+
+Message: Hey... Why dont we just go watch x men and have lunch... Haha 
+Predicted: spam
+True Label: spam
+Prediction: Correct
+
+Message: Hi da:)how is the todays class?
+Predicted: spam
+True Label: spam
+Prediction: Correct
+
+Message: Just sleeping..and surfing
+Predicted: spam
+True Label: ham
+Prediction: Incorrect
+
+Message: Sorry, I'll call later
+Predicted: spam
+True Label: spam
+Prediction: Correct
+
+Message: Congratulations ur awarded 500 of CD vouchers or 125gift guaranteed & Free entry 2 100 wkly draw txt MUSIC to 87066 TnCs www.Ldew.com1win150ppmx3age16
+Predicted: spam
+True Label: spam
+Prediction: Correct
+
+Message: Ur cash-balance is currently 500 pounds - to maximize ur cash-in now send CASH to 86688 only 150p/msg. CC: 08708800282 HG/Suite342/2Lands Row/W1J6HL
+Predicted: spam
+True Label: spam
+Prediction: Correct
+
+Message: I will spoil you in bed as well :)
+Predicted: spam
+True Label: spam
+Prediction: Correct
+
+Message: Thanks for your Ringtone Order, Reference T91. You will be charged GBP 4 per week. You can unsubscribe at anytime by calling customer services on 09057039994
+Predicted: spam
+True Label: spam
+Prediction: Correct
+
+Message: Can you say what happen
+Predicted: spam
+True Label: ham
+Prediction: Incorrect
+
+Message: I taught that Ranjith sir called me. So only i sms like that. Becaus hes verifying about project. Prabu told today so only pa dont mistake me..
+Predicted: spam
+True Label: ham
+Prediction: Incorrect
+
+Message: I guess that's why you re worried. You must know that there's a way the body repairs itself. And i'm quite sure you shouldn't worry. We'll take it slow. First the tests, they will guide when your ovulation is then just relax. Nothing you've said is a reason to worry but i.ll keep on followin you up.
+Predicted: spam
+True Label: spam
+Prediction: Correct
+
+Message: Yes i think so. I am in office but my lap is in room i think thats on for the last few days. I didnt shut that down
+Predicted: spam
+True Label: spam
+Prediction: Correct
+
+Message: Dear how is chechi. Did you talk to her
+Predicted: spam
+True Label: spam
+Prediction: Correct
+
+Message: Yep, the great loxahatchee xmas tree burning of  &lt;#&gt;  starts in an hour
+Predicted: spam
+True Label: spam
+Prediction: Correct
+
+Message: Message:some text missing* Sender:Name Missing* *Number Missing *Sent:Date missing *Missing U a lot thats y everything is missing sent via fullonsms.com
+Predicted: spam
+True Label: ham
+Prediction: Incorrect
+
+Message: Someone has contacted our dating service and entered your phone because they fancy you! To find out who it is call from a landline 09111032124 . PoBox12n146tf150p
+Predicted: spam
+True Label: spam
+Prediction: Correct
+
+Message: URGENT! Your Mobile number has been awarded with a å£2000 prize GUARANTEED. Call 09058094455 from land line. Claim 3030. Valid 12hrs only
+Predicted: spam
+True Label: spam
+Prediction: Correct
+
+Message: Any pain on urination any thing else?
+Predicted: spam
+True Label: spam
+Prediction: Correct
+
+Message: How long does applebees fucking take
+Predicted: spam
+True Label: spam
+Prediction: Correct
+
+Message: Hi hope u get this txt~journey hasnt been gd,now about 50 mins late I think.
+Predicted: spam
+True Label: ham
+Prediction: Incorrect
+
+Message: You were supposed to wake ME up &gt;:(
+Predicted: spam
+True Label: spam
+Prediction: Correct
+
+Message: Sorry, I'll call later
+Predicted: spam
+True Label: ham
+Prediction: Incorrect
+
+Message: LOL ... Have you made plans for new years?
+Predicted: spam
+True Label: ham
+Prediction: Incorrect
+
+Message: hanks lotsly!
+Predicted: spam
+True Label: spam
+Prediction: Correct
+
+Message: Going thru a very different feeling.wavering decisions and coping up with the same is the same individual.time will heal everything i believe.
+Predicted: spam
+True Label: spam
+Prediction: Correct
+
+Message: There are many company. Tell me the language.
+Predicted: spam
+True Label: spam
+Prediction: Correct
+
+Message: Ok I'm gonna head up to usf in like fifteen minutes
+Predicted: spam
+True Label: spam
+Prediction: Correct
+
+Message: Tension ah?what machi?any problem?
+Predicted: spam
+True Label: spam
+Prediction: Correct
+
+Message: Almost there, see u in a sec
+Predicted: spam
+True Label: ham
+Prediction: Incorrect
+
+Message: If we win its really no 1 side for long time.
+Predicted: spam
+True Label: spam
+Prediction: Correct
+
+Message: Nope... Think i will go for it on monday... Sorry i replied so late
+Predicted: spam
+True Label: spam
+Prediction: Correct
+
+Message: Shall i come to get pickle
+Predicted: spam
+True Label: spam
+Prediction: Correct
+
+Message: URGENT!: Your Mobile No. was awarded a å£2,000 Bonus Caller Prize on 02/09/03! This is our 2nd attempt to contact YOU! Call 0871-872-9755 BOX95QU
+Predicted: spam
+True Label: spam
+Prediction: Correct
+
+Message: Today's Offer! Claim ur å£150 worth of discount vouchers! Text YES to 85023 now! SavaMob, member offers mobile! T Cs 08717898035. å£3.00 Sub. 16 . Unsub reply X
+Predicted: spam
+True Label: spam
+Prediction: Correct
+
+Message: You will recieve your tone within the next 24hrs. For Terms and conditions please see Channel U Teletext Pg 750
+Predicted: spam
+True Label: ham
+Prediction: Incorrect
+
+Message: Jay says that you're a double-faggot
+Predicted: spam
+True Label: spam
+Prediction: Correct
+
+Message: Gudnite....tc...practice going on
+Predicted: spam
+True Label: spam
+Prediction: Correct
+
+Message: I've not called you in a while. This is hoping it was l8r malaria and that you know that we miss you guys. I miss Bani big, so pls give her my love especially. Have a great day.
+Predicted: spam
+True Label: spam
+Prediction: Correct
+
+Message: I know that my friend already told that.
+Predicted: spam
+True Label: spam
+Prediction: Correct
+
+Message: GENT! We are trying to contact you. Last weekends draw shows that you won a å£1000 prize GUARANTEED. Call 09064012160. Claim Code K52. Valid 12hrs only. 150ppm 
+Predicted: spam
+True Label: spam
+Prediction: Correct
+
+Message: Can you open the door?
+Predicted: spam
+True Label: spam
+Prediction: Correct
+
+Message: Arngd marriage is while u r walkin unfortuntly a snake bites u. bt love marriage is dancing in frnt of d snake &amp; sayin Bite me, bite me.
+Predicted: spam
+True Label: spam
+Prediction: Correct
+
+Message: I met you as a stranger and choose you as my friend. As long as the world stands, our friendship never ends. Lets be Friends forever!!! Gud nitz...
+Predicted: spam
+True Label: ham
+Prediction: Incorrect
+
+Message: Let there be snow. Let there be snow. This kind of weather brings ppl together so friendships can grow.
+Predicted: spam
+True Label: spam
+Prediction: Correct
+
+Message: Haha good to hear, I'm officially paid and on the market for an 8th
+Predicted: spam
+True Label: spam
+Prediction: Correct
+
+Message: Yup i thk they r e teacher said that will make my face look longer. Darren ask me not 2 cut too short.
+Predicted: spam
+True Label: spam
+Prediction: Correct
+
+Message: Please dont say like that. Hi hi hi
+Predicted: spam
+True Label: ham
+Prediction: Incorrect
+
+Message: Me n him so funny...
+Predicted: spam
+True Label: spam
+Prediction: Correct
+
+Message: When Ì_ login dat time... Dad fetching Ì_ home now?
+Predicted: spam
+True Label: spam
+Prediction: Correct
+
+Message: Thats cool! Sometimes slow and gentle. Sonetimes rough and hard :)
+Predicted: spam
+True Label: spam
+Prediction: Correct
+
+Message: Tell them the drug dealer's getting impatient
+Predicted: spam
+True Label: ham
+Prediction: Incorrect
+
+Message: Under the sea, there lays a rock. In the rock, there is an envelope. In the envelope, there is a paper. On the paper, there are 3 words... '
+Predicted: spam
+True Label: spam
+Prediction: Correct
+
+Message: Sorry me going home first... Daddy come fetch Ì_ later...
+Predicted: spam
+True Label: ham
+Prediction: Incorrect
+
+Message: Piggy, r u awake? I bet u're still sleeping. I'm going 4 lunch now...
+Predicted: spam
+True Label: ham
+Prediction: Incorrect
+
+Message: Is xy going 4 e lunch?
+Predicted: spam
+True Label: ham
+Prediction: Incorrect
+
+Message: Every King Was Once A Crying Baby And Every Great Building Was Once A Map.. Not Imprtant Where U r TODAY, BUT Where U Wil Reach TOMORW. Gud ni8
+Predicted: spam
+True Label: spam
+Prediction: Correct
+
+Message: Dear,Me at cherthala.in case u r coming cochin pls call bfore u start.i shall also reach accordingly.or tell me which day u r coming.tmorow i am engaged ans its holiday.
+Predicted: spam
+True Label: spam
+Prediction: Correct
+
+Message: My sister in law, hope you are having a great month. Just saying hey. Abiola
+Predicted: spam
+True Label: spam
+Prediction: Correct
+
+Message: Good. Good job. I like entrepreneurs
+Predicted: spam
+True Label: spam
+Prediction: Correct
+
+Message: To review and KEEP the fantastic Nokia N-Gage game deck with Club Nokia, go 2 www.cnupdates.com/newsletter. unsubscribe from alerts reply with the word OUT
+Predicted: spam
+True Label: spam
+Prediction: Correct
+
+Message: 08714712388 between 10am-7pm Cost 10p
+Predicted: spam
+True Label: spam
+Prediction: Correct
+
+Message: When i have stuff to sell i.ll tell you
+Predicted: spam
+True Label: spam
+Prediction: Correct
+
+Message: +449071512431 URGENT! This is the 2nd attempt to contact U!U have WON å£1250 CALL 09071512433 b4 050703 T&CsBCM4235WC1N3XX. callcost 150ppm mobilesvary. maxå£7. 50
+Predicted: spam
+True Label: spam
+Prediction: Correct
+
+Message: Book which lesson? then you msg me... I will call up after work or sth... I'm going to get specs. My membership is PX3748
+Predicted: spam
+True Label: spam
+Prediction: Correct
+
+Message: Oh is it? Send me the address
+Predicted: spam
+True Label: spam
+Prediction: Correct
+
+Message: Dunno y u ask me.
+Predicted: spam
+True Label: spam
+Prediction: Correct
+
+Message: By monday next week. Give me the full gist
+Predicted: spam
+True Label: spam
+Prediction: Correct
+
+Message: Dont gimme that lip caveboy
+Predicted: spam
+True Label: spam
+Prediction: Correct
+
+Message: So why didnt you holla?
+Predicted: spam
+True Label: spam
+Prediction: Correct
+
+Message: Wishing you and your family Merry \X\" mas and HAPPY NEW Year in advance.."
+Predicted: spam
+True Label: spam
+Prediction: Correct
+
+Message: Not getting anywhere with this damn job hunting over here!
+Predicted: spam
+True Label: spam
+Prediction: Correct
+
+Message: \Hi its Kate it was lovely to see you tonight and ill phone you tomorrow. I got to sing and a guy gave me his card! xxx\""
+Predicted: spam
+True Label: spam
+Prediction: Correct
+
+Message: Dont think so. It turns off like randomlly within 5min of opening
+Predicted: spam
+True Label: spam
+Prediction: Correct
+
+Message: 5 Free Top Polyphonic Tones call 087018728737, National Rate. Get a toppoly tune sent every week, just text SUBPOLY to 81618, å£3 per pole. UnSub 08718727870.
+Predicted: spam
+True Label: spam
+Prediction: Correct
+
+Message: Gud mrng dear hav a nice day
+Predicted: spam
+True Label: spam
+Prediction: Correct
+
+Message: All e best 4 ur driving tmr :-)
+Predicted: spam
+True Label: spam
+Prediction: Correct
+
+Message: Y?WHERE U AT DOGBREATH? ITS JUST SOUNDING LIKE JAN C THATåÕS AL!!!!!!!!!
+Predicted: spam
+True Label: ham
+Prediction: Incorrect
+
+Message: \Petey boy whereare you me and all your friendsare in theKingshead come down if you canlove Nic\""
+Predicted: spam
+True Label: spam
+Prediction: Correct
+
+Message: I dled 3d its very imp
+Predicted: spam
+True Label: ham
+Prediction: Incorrect
+
+Message: sure, but make sure he knows we ain't smokin yet
+Predicted: spam
+True Label: spam
+Prediction: Correct
+
+Message: Boooo you always work. Just quit.
+Predicted: spam
+True Label: spam
+Prediction: Correct
+
+Message: Good afternoon starshine! How's my boytoy? Does he crave me yet? Ache to fuck me ? *sips cappuccino* I miss you babe *teasing kiss*
+Predicted: spam
+True Label: ham
+Prediction: Incorrect
+
+Message: SMSSERVICES. for yourinclusive text credits, pls goto www.comuk.net login= 3qxj9 unsubscribe with STOP, no extra charge. help 08702840625.COMUK. 220-CM2 9AE
+Predicted: spam
+True Label: spam
+Prediction: Correct
+
+Message: 25p 4 alfie Moon's Children in need song on ur mob. Tell ur m8s. Txt Tone charity to 8007 for Nokias or Poly charity for polys: zed 08701417012 profit 2 charity.
+Predicted: spam
+True Label: spam
+Prediction: Correct
+
+Message: Have a good evening! Ttyl
+Predicted: spam
+True Label: spam
+Prediction: Correct
+
+Message: Did u find out what time the bus is at coz i need to sort some stuff out.
+Predicted: spam
+True Label: ham
+Prediction: Incorrect
+
+Message: Hello. We need some posh birds and chaps to user trial prods for champneys. Can i put you down? I need your address and dob asap. Ta r
+Predicted: spam
+True Label: spam
+Prediction: Correct
+
+Message: I'll text you when I drop x off
+Predicted: spam
+True Label: spam
+Prediction: Correct
+
+Message: Sunshine Quiz Wkly Q! Win a top Sony DVD player if u know which country Liverpool played in mid week? Txt ansr to 82277. å£1.50 SP:Tyrone
+Predicted: spam
+True Label: spam
+Prediction: Correct
+
+Message: U have a Secret Admirer who is looking 2 make contact with U-find out who they R*reveal who thinks UR so special-call on 09065171142-stopsms-08
+Predicted: spam
+True Label: ham
+Prediction: Incorrect
+
+Message: Reminder: You have not downloaded the content you have already paid for. Goto http://doit. mymoby. tv/ to collect your content.
+Predicted: spam
+True Label: ham
+Prediction: Incorrect
+
+Message: You unbelievable faglord
+Predicted: spam
+True Label: spam
+Prediction: Correct
+
+Message: Nutter. Cutter. Ctter. Cttergg. Cttargg. Ctargg. Ctagg. ie you
+Predicted: spam
+True Label: ham
+Prediction: Incorrect
+
+Message: Doesn't g have class early tomorrow and thus shouldn't be trying to smoke at  &lt;#&gt;
+Predicted: spam
+True Label: ham
+Prediction: Incorrect
+
+Message: Superb Thought- \Be grateful that u dont have everything u want. That means u still have an opportunity to be happier tomorrow than u are today.\":-)"
+Predicted: spam
+True Label: spam
+Prediction: Correct
+
+Message: I wonder if your phone battery went dead ? I had to tell you, I love you babe
+Predicted: spam
+True Label: ham
+Prediction: Incorrect
+
+Message: Lovely smell on this bus and it ain't tobacco... 
+Predicted: spam
+True Label: spam
+Prediction: Correct
+
+Message: Was actually about to send you a reminder today. Have a wonderful weekend
+Predicted: spam
+True Label: spam
+Prediction: Correct
+
+Message: It shall be fine. I have avalarr now. Will hollalater
+Predicted: spam
+True Label: spam
+Prediction: Correct
+
+Message: Then dun wear jeans lor...
+Predicted: spam
+True Label: spam
+Prediction: Correct
+
+Message: No we sell it all so we'll have tons if coins. Then sell our coins to someone thru paypal. Voila! Money back in life pockets:)
+Predicted: spam
+True Label: spam
+Prediction: Correct
+
+Message: How about getting in touch with folks waiting for company? Just txt back your NAME and AGE to opt in! Enjoy the community (150p/SMS)
+Predicted: spam
+True Label: spam
+Prediction: Correct
+
+Message: Shb b ok lor... Thanx...
+Predicted: spam
+True Label: ham
+Prediction: Incorrect
+
+Message: Beautiful Truth against Gravity.. Read carefully: \Our heart feels light when someone is in it.. But it feels very heavy when someone leaves it..\" GOOD NIGHT"
+Predicted: spam
+True Label: spam
+Prediction: Correct
+
+Message: Watching cartoon, listening music &amp; at eve had to go temple &amp; church.. What about u?
+Predicted: spam
+True Label: ham
+Prediction: Incorrect
+
+Message: What do u want when i come back?.a beautiful necklace as a token of my heart for you.thats what i will give but ONLY to MY WIFE OF MY LIKING.BE THAT AND SEE..NO ONE can give you that.dont call me.i will wait till i come.
+Predicted: spam
+True Label: ham
+Prediction: Incorrect
+
+Message: Hey no I ad a crap nite was borin without ya 2 boggy with me u boring biatch! Thanx but u wait til nxt time il ave ya 
+Predicted: spam
+True Label: spam
+Prediction: Correct
+
+Message: Hey you can pay. With salary de. Only  &lt;#&gt; .
+Predicted: spam
+True Label: ham
+Prediction: Incorrect
+
+Message: Another month. I need chocolate weed and alcohol.
+Predicted: spam
+True Label: spam
+Prediction: Correct
+
+Message: LOOK AT THE FUCKIN TIME. WHAT THE FUCK YOU THINK IS UP
+Predicted: spam
+True Label: ham
+Prediction: Incorrect
+
+Message: Carlos says he'll be at mu in  &lt;#&gt;  minutes
+Predicted: spam
+True Label: ham
+Prediction: Incorrect
+
+Message: Hi im having the most relaxing time ever! we have to get up at 7am every day! was the party good the other night? I get home tomorrow at 5ish.
+Predicted: spam
+True Label: spam
+Prediction: Correct
+
+Message: Yes..he is really great..bhaji told kallis best cricketer after sachin in world:).very tough to get out.
+Predicted: spam
+True Label: spam
+Prediction: Correct
+
+Message: Poyyarikatur,kolathupalayam,unjalur post,erode dis, &lt;#&gt; .
+Predicted: spam
+True Label: spam
+Prediction: Correct
+
+Message: I just got home babe, are you still awake ?
+Predicted: spam
+True Label: spam
+Prediction: Correct
+
+Message: Guess what! Somebody you know secretly fancies you! Wanna find out who it is? Give us a call on 09065394514 From Landline DATEBox1282EssexCM61XN 150p/min 18
+Predicted: spam
+True Label: spam
+Prediction: Correct
+
+Message: Hasn't that been the pattern recently crap weekends?
+Predicted: spam
+True Label: spam
+Prediction: Correct
+
+Message: Yes da. Any plm at ur office
+Predicted: spam
+True Label: spam
+Prediction: Correct
+
+Message: Yup bathe liao...
+Predicted: spam
+True Label: ham
+Prediction: Incorrect
+
+Message: Edison has rightly said, \A fool can ask more questions than a wise man can answer\" Now you know why all of us are speechless during ViVa.. GM
+Predicted: spam
+True Label: spam
+Prediction: Correct
+
+Message: 18 days to Euro2004 kickoff! U will be kept informed of all the latest news and results daily. Unsubscribe send GET EURO STOP to 83222.
+Predicted: spam
+True Label: ham
+Prediction: Incorrect
+
+Message: Ard 515 like dat. Y?
+Predicted: spam
+True Label: spam
+Prediction: Correct
+
+Message: EASTENDERS TV Quiz. What FLOWER does DOT compare herself to? D= VIOLET E= TULIP F= LILY txt D E or F to 84025 NOW 4 chance 2 WIN å£100 Cash WKENT/150P16+
+Predicted: spam
+True Label: spam
+Prediction: Correct
+
+Message: No my mum went 2 dentist.
+Predicted: spam
+True Label: spam
+Prediction: Correct
+
+Message: Someone U know has asked our dating service 2 contact you! Cant Guess who? CALL 09058091854 NOW all will be revealed. PO BOX385 M6 6WU
+Predicted: spam
+True Label: spam
+Prediction: Correct
+
+Message: Send to someone else :-)
+Predicted: spam
+True Label: spam
+Prediction: Correct
+
+Message: I don't think he has spatula hands!
+Predicted: spam
+True Label: spam
+Prediction: Correct
+
+Message: Goodmorning today i am late for  &lt;DECIMAL&gt; min.
+Predicted: spam
+True Label: ham
+Prediction: Incorrect
+
+Message: You busy or can I come by at some point and figure out what we're doing tomorrow
+Predicted: spam
+True Label: ham
+Prediction: Incorrect
+
+Message: Yeah go on then, bored and depressed sittin waitin for phone to ring... Hope the wind drops though, scary
+Predicted: spam
+True Label: spam
+Prediction: Correct
+
+Message: Awesome, think we can get an 8th at usf some time tonight?
+Predicted: spam
+True Label: spam
+Prediction: Correct
+
